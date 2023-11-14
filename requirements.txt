@@ -1,0 +1,17 @@
+pandas
+numpy
+seaborn
+#matplotlib
+#scikit-learn
+#catboost
+#xgboost
+# keras
+fitz
+Pillow
+opencv-python
+pytesseract
+PyMuPDF
+Flask
+spacy
+
+-e .

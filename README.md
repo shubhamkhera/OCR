@@ -1,1 +1,1 @@
-Resume OCR
+# Resume OCR (Optical Character Recognition)

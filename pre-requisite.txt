@@ -1,0 +1,21 @@
+# Create Virtual Environment:
+    conda create -p <env_name> python==3.8 -y
+    
+# Activate Virtual Environmeny
+    conda acivate <env_name>
+
+# Git Hub Commands
+    New Repository from command line
+        echo "# Test" >> README.md
+        git init
+        git add README.md
+        git commit -m "first commit"
+        git branch -M main
+        git remote add origin <https://github.com/username/Test.git>
+        git push -u origin main
+
+
+    Push an existing repository
+        git remote add origin https://github.com/username/Test.git
+        git branch -M main
+        git push -u origin main
